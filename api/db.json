@@ -1,0 +1,25 @@
+{
+  "streams": [
+    {
+      "title": "stream",
+      "description": "this is a  great stream",
+      "id": 1
+    },
+    {
+      "title": "my stream",
+      "description": "this is my stream",
+      "id": 2
+    },
+    {
+      "title": "third rock from the sun test edit screen",
+      "description": "Planet earth is the third rock from the sun.",
+      "id": 3
+    },
+    {
+      "title": "Sally Forth",
+      "description": "Never give up! Sally forth",
+      "userId": "105744550634201114155",
+      "id": 4
+    }
+  ]
+}
